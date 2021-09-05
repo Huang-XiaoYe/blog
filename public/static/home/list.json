@@ -1,0 +1,20 @@
+{
+	"code": 200,
+	"data": [{
+		"text": "关于我",
+		"url": "mine"
+	},
+	{
+		"text": "番剧推荐",
+		"url": "comic"
+	},
+	{
+		"text": "壁纸收藏",
+		"url": "gallery"
+	},
+	{
+		"text": "留言板",
+		"url": "message"
+	}],
+	"message": "请求成功"
+}

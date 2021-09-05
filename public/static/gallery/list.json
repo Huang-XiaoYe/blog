@@ -1,0 +1,59 @@
+{
+	"code": 200,
+	"data": [{
+		"id": 1,
+		"title": "轻音少女",
+		"cover": "/static/images/comic/1.webp",
+		"smail": [
+			"/static/images/gallery/0.webp",
+			"/static/images/gallery/9.webp",
+			"/static/images/gallery/7.webp"
+		]
+	}, {
+		"id": 2,
+		"title": "相册封面",
+		"cover": "/static/images/comic/2.webp",
+		"smail": [
+			"/static/images/comic/2.webp",
+			"/static/images/comic/3.webp",
+			"/static/images/comic/4.webp"
+		]
+	}, {
+		"id": 3,
+		"title": "相册封面",
+		"cover": "/static/images/comic/3.webp",
+		"smail": [
+			"/static/images/comic/2.webp",
+			"/static/images/comic/3.webp",
+			"/static/images/comic/4.webp"
+		]
+	}, {
+		"id": 4,
+		"title": "相册封面",
+		"cover": "/static/images/comic/4.webp",
+		"smail": [
+			"/static/images/comic/2.webp",
+			"/static/images/comic/3.webp",
+			"/static/images/comic/4.webp"
+		]
+	}, {
+		"id": 6,
+		"title": "相册封面",
+		"cover": "/static/images/comic/5.webp",
+		"smail": [
+			"/static/images/comic/2.webp",
+			"/static/images/comic/3.webp",
+			"/static/images/comic/4.webp"
+		]
+	}, {
+		"id": 6,
+		"title": "相册封面",
+		"cover": "/static/images/comic/6.webp",
+		"smail": [
+			"/static/images/comic/2.webp",
+			"/static/images/comic/3.webp",
+			"/static/images/comic/4.webp"
+		]
+	}],
+	"message": "请求成功"
+}
